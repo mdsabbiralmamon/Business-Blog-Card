@@ -2,7 +2,7 @@
 
 A simple responsive blog card design contains a header image, headline, main paragraph and a footer containing a profile icon with name and designation.
 
-view live link at : https://mdsabbiralmamon.github.io/Minimal-Blog-Card/
+view live link at : https://mdsabbiralmamon.github.io/Business-Blog-Card/
 
 
 ## 🔍   Previews : (Desktop and 640 width devices)
