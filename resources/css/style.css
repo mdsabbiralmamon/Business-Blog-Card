@@ -25,17 +25,17 @@ body{
     height: fit-content;
     width: 436px;
     margin: 136px auto 0 auto;
+    border-radius: 10px;
+    background-color: #FFF;
+    box-shadow: 0px 30px 100px 0px #F2F5F9;
 }
 
 /* ==================================
             Card Header CSS
 ================================== */
 
-.cardHeader{
-    
-}
-
 .cardHeader .images{
+    border-radius: 10px;
     width: 436px;
     height: 325px;
     background-image: url(../images/white-overlay.svg), url(../images/hero-image-business-card.png);
