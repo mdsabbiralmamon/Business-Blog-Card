@@ -30,6 +30,7 @@ body{
     border-radius: 10px;
     background-color: #FFF;
     box-shadow: 0px 30px 100px 0px #F2F5F9;
+    border: 1px solid #FFF;
 }
 
 /* ==================================
@@ -75,3 +76,38 @@ body{
     height: 1px;
 }
 
+/* ==================================
+            Card footer CSS
+================================== */
+
+.cardContainer .cardFooter{
+    display: flex;
+    align-items: center;
+    margin: 30px;
+    gap: 10px;
+}
+
+.cardContainer .cardFooter .profilePictureAvatar{
+    display: flex;
+    height: 50px;
+    width: 50px;
+    align-items: center;
+    justify-content: center;
+    background-color: #F2F5F9;
+    border-radius: 30px;
+}
+
+.cardContainer .cardFooter .profilePictureAvatar img{
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+}
+
+.cardContainer .cardFooter .namAndDesignation h2 {
+    font-size: 1rem;
+}
+
+.cardContainer .cardFooter .namAndDesignation p {
+    font-size: small;
+    color: #677489;
+}
