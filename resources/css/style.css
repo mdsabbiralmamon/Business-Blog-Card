@@ -8,3 +8,30 @@
     padding: 0;
     font-family: lato;
 }
+
+/* ==================================
+            Card CSS
+================================== */
+
+.cardContainer{
+    height: fit-content;
+    width: 436px;
+    margin: 136px auto 0 auto;
+}
+
+/* ==================================
+            Card Header CSS
+================================== */
+
+.cardHeader{
+    
+}
+
+.cardHeader .images{
+    width: 436px;
+    height: 325px;
+    background-image: url(../images/white-overlay.svg), url(../images/hero-image-business-card.png);
+    background-position: 0px 255px, 0px;
+    background-repeat: no-repeat, no-repeat;
+    background-size: 436px, cover;
+}
