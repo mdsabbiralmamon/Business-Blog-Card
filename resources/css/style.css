@@ -65,3 +65,13 @@ body{
     font-size: 1rem;
     color: #677489;
 }
+
+/* ==================================
+            HR Line CSS
+================================== */
+
+.cardContainer .horizontalLine{
+    background-color: #F2F5F9;
+    height: 1px;
+}
+
